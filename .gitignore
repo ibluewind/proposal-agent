@@ -13,4 +13,7 @@ env.bak/
 venv.bak/
 
 # Database
-data
+data/
+
+# ETC
+.DS_Store
